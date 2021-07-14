@@ -1603,7 +1603,7 @@ h2 {
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 22px    /*changé de 24 en 22*/
 }
 
 .h4,
@@ -1685,7 +1685,7 @@ mark {
     color: #777
 }
 
-.text-primary {
+/*.text-primary {
     color: #337ab7
 }
 
@@ -1723,7 +1723,7 @@ a.text-warning:hover {
 
 .text-danger {
     color: #a94442
-}
+}*/
 
 a.text-danger:focus,
 a.text-danger:hover {
