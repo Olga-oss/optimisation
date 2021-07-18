@@ -694,7 +694,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color:rgb(3, 32, 10)!important;
+    color: rgb(0, 0, 0)!important;
     /*color: #FFFFFF!important;*/
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
@@ -746,7 +746,7 @@ p {
 }
 
 h1 {
-    color: #333333!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 /*h4 {
@@ -759,7 +759,7 @@ h1 {
 }
 
 .black {
-    color: rgb(3, 32, 10)!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .portfolio-thumb {
@@ -797,8 +797,17 @@ h1 {
     background-color: #F3976C;
 }
 
-.tc-orange {
+/*.tc-orange {
     color: #F3976C!important;
+}*/
+
+.tc-black{
+    color: rgb(0, 0, 0)!important;
+}
+
+.tc-black:hover{
+    color: #611f75!important;
+
 }
 
 
@@ -814,13 +823,13 @@ h1 {
     /*color: #FFFFFF!important;*/
 }
 
-.ltc-white {
+/*.ltc-white {
     color: #FFFFFF!important;
 }
 
 .ltc-white:hover {
     color: #cccccc!important;
-}
+}*/
 
 .ltc-atomic-tangerine {
     color: #F3976C!important;
