@@ -315,7 +315,7 @@ th {
     src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),
          url(../fonts/glyphicons-halflings-regular.woff) format('woff')   
          url(../fonts/glyphicons-halflings-regular.ttf) format('truetype')
-            (../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+            /*(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');*/
     font-display: swap;
 }
 
