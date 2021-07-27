@@ -747,6 +747,7 @@ p {
 
 h1 {
     color: rgb(0, 0, 0)!important;
+    text-transform: uppercase;
 }
 
 /*h4 {
