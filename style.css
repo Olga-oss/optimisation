@@ -368,8 +368,8 @@ a:hover {
         position: absolute;
         top: 50%;
         right: 20px;
-        transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+        transform: translate(0, -50%);
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
@@ -551,8 +551,8 @@ a[data-lightbox]:hover::before {
     z-index: 1;
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 a[data-lightbox]:hover img {
