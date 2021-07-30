@@ -129,9 +129,9 @@ a:hover {
 .d-bloc h1 a,
 .d-bloc h2 a,
 .d-bloc h3 a,
-.d-bloc h4 a,
+/*.d-bloc h4 a,
 .d-bloc h5 a,
-.d-bloc h6 a,
+.d-bloc h6 a,*/
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
@@ -146,9 +146,9 @@ a:hover {
 .d-bloc h1 a:hover,
 .d-bloc h2 a:hover,
 .d-bloc h3 a:hover,
-.d-bloc h4 a:hover,
+/*.d-bloc h4 a:hover,
 .d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
+.d-bloc h6 a:hover,*/
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
@@ -285,6 +285,8 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .navbar {
@@ -660,13 +662,13 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
+/*.hero-bloc-text {
     font-size: 38px;
-}
+}*/
 
-.hero-bloc-text-sub {
+/*.hero-bloc-text-sub {
     font-size: 36px;
-}
+}*/
 
 .statement-bloc-text {
     line-height: 26px;
