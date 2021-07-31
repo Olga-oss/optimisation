@@ -7844,9 +7844,9 @@ button.close {
     position: fixed
 }
 
-@viewport {
+/*@viewport {
     width: device-width
-}
+}*/
 
 .visible-lg,
 .visible-md,
