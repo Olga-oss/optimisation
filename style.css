@@ -513,7 +513,7 @@ button {
     box-shadow: none;
 }
 
-.scrollToTop {
+/*.scrollToTop {
     width: 40px;
     height: 40px;
     position: fixed;
@@ -532,6 +532,7 @@ button {
     font-size: 14px;
     opacity: 1;
 }
+*/
 
 a[data-lightbox] {
     position: relative;
