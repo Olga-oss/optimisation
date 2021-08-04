@@ -1091,6 +1091,9 @@ h1 {
         margin-right: 5px;
         margin-left: 5px;
     }
+    .lightbox-caption{
+        bottom: -10px;
+    }
 }
 
 @media (max-width: 767px) {
